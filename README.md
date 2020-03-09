@@ -5,7 +5,9 @@ Golang telegram wisdoms bot. Wisdoms are getting parsed from wisdoms.txt file, s
 ## Enviromental variables
 
 **PUBLIC_URL**
-**PORT**
+
+**PORT** 
+
 **TOKEN**
 
 ## Deploy on Heroku
